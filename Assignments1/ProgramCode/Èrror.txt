@@ -1,0 +1,5 @@
+Èrror:
+
+I wrote Strings Instead of String
+I Compare 5<=a<12 which is Incorrect Bec does not support chained comparisons
+   So correct Comparison is a>=5 && a<12
